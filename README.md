@@ -14,7 +14,7 @@ Kaur, D., Arora, C., and Raghava, G. P. S. A Hybrid Model for Predicting Pattern
 
 https://doi.org/10.3389/fimmu.2020.00071
 
-This tool and dataset is also available on Zenodo 
+This tool and dataset is also available on Zenodo https://doi.org/10.5281/zenodo.20155359
 
 
 ## About the Research
